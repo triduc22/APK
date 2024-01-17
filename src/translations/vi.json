@@ -1,0 +1,46 @@
+{
+    "titleLanguage": "Ngôn Ngữ:",
+    "homeToday": "Hôm Nay",
+    "titleinfor": "THỜI TIẾT HÔM NAY,",
+    "titleinfor1": "TP.Thủ Đức",
+    "homeForecast": "Dự Báo",
+    "Dự Báo": "Dự Báo",
+    "homeDetails": "Chi Tiết",
+    "homeAbout": "Thông Tin",
+    "Temperature": "Nhiệt Độ",
+    "UV1": "Tia Cực Tím",
+    "Rainfall": "Lượng mưa",
+    "Windgust": "Gió Giật",
+    "filterSelection": "Chọn lựa chọn của bạn:",
+
+    "All": "Tất Cả",
+    "Date": "Ngày",
+    "Time": "Thời gian",
+    "Wind Speed": "Tốc độ gió (M/s)",
+    "Wind Gust": "Gió giật (Km/h)",
+    "Temperature1": "Nhiệt độ (°C)",
+    "Humidity": "Độ ẩm (%)",
+    "Pressure": "Áp suất (Atm)",
+    "DailyRain": "Lượng Mưa Ngày (Mm/d)",
+    "UV": "Tia Cực Tím (W/m^2)",
+
+    "goodMorning": "Chào buổi sáng",
+    "goodAfternoon": "Chào buổi chiều",
+    "goodEvening": "Chào buổi tối",
+
+    "studentInformation": "Thông Tin Học Sinh",
+    
+    "studentInfo.name": "Trí Đức",
+    "studentInfo1.name1": "Văn Bằng",
+    
+    "studentInfo.role": "Nhà phát triển và hiệu ứng đặc biệt cho thiết kế trải nghiệm người dùng",
+    "studentInfo1.role1": "Thiết kế trải nghiệm người dùng",
+
+    "studentInfo.contribution": "Đã góp phần sửa lỗi thiết kế giao diện người dùng và tìm nạp dữ liệu cũng như một số chức năng đặc biệt trong ứng dụng",
+    "studentInfo1.contribution1": "Đóng góp vào API trong ứng dụng",
+
+    "Name": "Tên:",
+    "Role": "Vai Trò:",
+    "Contribution": "Đóng Góp:"
+
+}

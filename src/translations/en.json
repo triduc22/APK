@@ -1,0 +1,46 @@
+{
+    "titleLanguage": "Language:",
+    "homeToday": "Today",
+    "titleLanguage": "Language:",
+    "titleinfor": "THE WEATHER TODAY,",
+    "titleinfor1": "Thu Duc City",
+    "homeForecast": "Forecast",
+    "Dự Báo": "Forecast",
+    "homeDetails": "Details",  
+    "homeAbout": "About",
+    "Temperature": "Temperature",   
+    "UV1": "UV",   
+    "Rainfall": "RainFall",
+    "Windgust": "WindGust",
+    "filterSelection": "Choose Your Selection:",
+
+    "All": "All",
+    "Date": "Date",
+    "Time": "Time",
+    "Wind Speed": "Wind Speed (M/s)",
+    "Wind Gust": "Wind Gust (Km/h)",
+    "Temperature1": "Temperature (°C)",
+    "Humidity": "Humidity (%)",
+    "Pressure": "Pressure (Atm)",
+    "DailyRain": "DailyRain (Mm/d)",
+    "UV": "UV (W/m^2)",
+    
+    "goodMorning": "Good Morning",
+    "goodAfternoon": "Good Afternoon",
+    "goodEvening": "Good Evening",
+
+    "studentInformation": "Student Information",
+
+    "studentInfo.name": "Tri Duc",
+    "studentInfo1.name1": "Van Bang",
+
+    "studentInfo.role": "Developer and UI/UX special",
+    "studentInfo1.role1": "UI/UX",
+
+    "studentInfo.contribution": "Contributed to fix UI design and make data fetching and some function specials in app",
+    "studentInfo1.contribution1": "Contributed to make API app",
+
+    "Name": "Name:",
+    "Role:": "Role:",
+    "Contribution:": "Contribution:"
+}
