@@ -54,14 +54,26 @@ const WeatherToday = () => {
   //Process setup change image base time morning or evening
   useEffect(() => {
     const currentHour = new Date().getHours();
+    const currentMinute = new Date().getMinutes();
     const setIsDaytime = currentHour >= 6 && currentHour < 18;
+   
     if (setIsDaytime) {
-      setDaytimeImage(require('../assets/images/sun1.png'));
-      setNighttimeImage(require('../assets/images/night.png'));
+      setDaytimeImage(require('../assets/images/night.png'));
+      setNighttimeImage(require('../assets/images/sun1.png'));
     } else {
       setDaytimeImage(require('../assets/images/night.png'));
       setNighttimeImage(require('../assets/images/sun1.png'));
     }
+
+    //Test with change icon sun when 21
+    // const setIsDaytime = currentHour >= 21 && currentHour < 22;
+    // if (setIsDaytime) {
+    //   setDaytimeImage(require('../assets/images/sun1.png'));
+    //   setNighttimeImage(require('../assets/images/night.png'));
+    // } else {
+    //   setDaytimeImage(require('../assets/images/night.png'));
+    //   setNighttimeImage(require('../assets/images/sun1.png'));
+    // }
   }, [setIsDaytime]);
 
   //Process make greeting(lời chào)

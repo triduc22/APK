@@ -34,11 +34,11 @@
     "studentInfo.name": "Tri Duc",
     "studentInfo1.name1": "Van Bang",
 
-    "studentInfo.role": "Developer and UI/UX special",
-    "studentInfo1.role1": "UI/UX",
+    "studentInfo.role": "Developer and UI/UX special.",
+    "studentInfo1.role1": "UI/UX.",
 
-    "studentInfo.contribution": "Contributed to fix UI design and make data fetching and some function specials in app",
-    "studentInfo1.contribution1": "Contributed to make API app",
+    "studentInfo.contribution": "Contributed to fix UI design and make data fetching and some function specials in app.",
+    "studentInfo1.contribution1": "Contributed to make API app.",
 
     "Name": "Name:",
     "Role:": "Role:",
